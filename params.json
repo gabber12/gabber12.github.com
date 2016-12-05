@@ -1,6 +1,6 @@
 {
   "name": "@gabber12",
   "tagline": "Software craftsman and tech enthusiast",
-  "body": "### [Slides.vim](https://gabber12.github.io/slides.vim/)\r\n  - A python package allowing markdown to be presented right in vim\r\n\r\n### Contact Me\r\nCheckout out my [Blog](https://gabber12.me) \r\n",
+  "body": "## What am i working on?\r\n\r\n### [Slides.vim](https://gabber12.github.io/slides.vim/)\r\n  - A python package allowing markdown to be presented right in vim\r\n\r\n### [TechNews Aggregation](https://github.com/gabber12/hacky-lobster)\r\n  - A React-native app for browsing through list of tech communities like hackernews and lobste.rs\r\n\r\n## Contact Me\r\nCheckout out my [Blog](https://gabber12.me) \r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
